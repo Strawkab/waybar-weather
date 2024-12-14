@@ -1,5 +1,5 @@
 "custom/weather": {
-        "exec": "${HOME}/.config/waybar/weather_script.sh Makati",
+        "exec": "${HOME}/.config/waybar/weather_script.sh London",
         "return-type": "json",
         "format": "<span foreground=\"#A9B665\">{icon}</span> {} ",
         "format-icons": {
